@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MINT",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-01-06T08:26:07.149285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Elephant Stone (Mint Royale Remix)",
+      "artist": "The Stone Roses",
+      "has_synced": false,
+      "path": "select/01_Elephant_Stone_(Mint_Royale_Remix)_The_Stone_Roses.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Elephant Stone (Stone Roses (Mint Royale Remix))",
+      "artist": "Mint Royale",
+      "has_synced": false,
+      "path": "select/02_Elephant_Stone_(Stone_Roses_(Mint_Royale_Remix))_Mint_Royale.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Operation Lifesaver aka Mint Test",
+      "artist": "Madvillain",
+      "has_synced": true,
+      "path": "select/03_Operation_Lifesaver_aka_Mint_Test_Madvillain.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tequilla (Mint Royale Shot)",
+      "artist": "Terrorvision",
+      "has_synced": false,
+      "path": "select/04_Tequilla_(Mint_Royale_Shot)_Terrorvision.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cyanide Breath Mint",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/05_Cyanide_Breath_Mint_Beck.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cyanide Breath Mint",
+      "artist": "Beck",
+      "has_synced": false,
+      "path": "select/06_Cyanide_Breath_Mint_Beck.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mint Car",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/07_Mint_Car_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mint Car - Acoustic Version",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/08_Mint_Car_-_Acoustic_Version_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mint Car (Acoustic)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/09_Mint_Car_(Acoustic)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mint Car (Radio Mix)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/10_Mint_Car_(Radio_Mix)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Polo Mint City",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/11_Polo_Mint_City_Texas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chocolate And Mint",
+      "artist": "Duster",
+      "has_synced": false,
+      "path": "select/12_Chocolate_And_Mint_Duster.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Mint",
+      "artist": "Earl Sweatshirt feat. Navy Blue",
+      "has_synced": true,
+      "path": "select/13_The_Mint_Earl_Sweatshirt_feat._Navy_Blue.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Mint (feat. Navy Blue)",
+      "artist": "Earl Sweatshirt",
+      "has_synced": false,
+      "path": "select/14_The_Mint_(feat._Navy_Blue)_Earl_Sweatshirt.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mint Car",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/15_Mint_Car_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mint Car",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/16_Mint_Car_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mint",
+      "artist": "Megumi Hayashibara",
+      "has_synced": false,
+      "path": "select/17_Mint_Megumi_Hayashibara.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mint",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/18_Mint_林原めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MINT",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_MINT_Suchmos.txt"
+    }
+  ]
+}
